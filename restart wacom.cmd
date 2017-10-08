@@ -1,0 +1,2 @@
+Net stop WTabletServiceCon
+Net start WTabletServiceCon
